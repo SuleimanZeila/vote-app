@@ -1,1 +1,1 @@
-web: gunicorn voterCheckerProject.wsgi
+web: gunicorn "voterCheckerProject.wsgi"
